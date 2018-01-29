@@ -1,7 +1,8 @@
 {
     "description": "Gulp plugin allow modify file in .pipe",
     "name": "gulp-modify-file",
-    "version": "1.0.0",
+    "license": "MIT",
+    "version": "1.0.1",
 
     "author": {
         "name": "Eduardo Pérez-Bermejo",
