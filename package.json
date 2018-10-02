@@ -3,31 +3,27 @@
     "name": "gulp-modify-file",
     "license": "MIT",
     "version": "1.0.1",
-
     "author": {
         "name": "Eduardo Pérez-Bermejo",
         "email": "ifedu@outlook.com",
         "url": "http://www.github.com/ifedu/gulp-modify-file"
     },
-
     "dependencies": {
         "gulp": "3.9.1",
-        "through2": "2.0.3"
+        "source-map": "^0.7.3",
+        "through2": "2.0.3",
+        "vinyl-sourcemaps-apply": "^0.2.1"
     },
-
     "engines": {
         "node": ">= 4.0"
     },
-
     "repository": {
         "type": "git",
         "url": "https://github.com/ifedu/gulp-modify-file"
     },
-
     "files": [
         "index.js"
     ],
-
     "keywords": [
         "gulp",
         "modify",
