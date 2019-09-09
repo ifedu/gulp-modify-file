@@ -7,7 +7,7 @@ module.exports = function (fn) {
         const contents = fn(String(file.contents), file.path, file) || file.contents
 
         if (file.isBuffer() === true) {
-            file.contents = new Buffer(contents)
+            file.contents = new Buffer.from(contents)
         }
 
         cb(null, file)
