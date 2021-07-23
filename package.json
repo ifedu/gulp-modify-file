@@ -2,17 +2,17 @@
     "description": "Gulp plugin allow modify file in .pipe",
     "name": "gulp-modify-file",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
 
     "author": {
-        "name": "Eduardo Pérez-Bermejo",
-        "email": "ifedu@outlook.com",
-        "url": "http://www.github.com/ifedu/gulp-modify-file"
+        "name": "Kevin Huynh",
+        "email": "kevhuynh23@gmail.com",
+        "url": "http://www.github.com/kevinhuynh23/gulp-modify-file"
     },
 
     "dependencies": {
-        "gulp": "3.9.1",
-        "through2": "2.0.3"
+        "gulp": "4.0.2",
+        "through2": "3.0.1"
     },
 
     "engines": {
@@ -21,7 +21,7 @@
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/ifedu/gulp-modify-file"
+        "url": "https://github.com/kevinhuynh23/gulp-modify-file"
     },
 
     "files": [
